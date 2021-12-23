@@ -1,4 +1,4 @@
-# Sky subtraction from the some Star specra
+# Sky subtraction from star specra
 In this repository you can find two branches (in the upper panel of the repository), one is a Python script code to substract the sky spectra (tellurics lines) to some star spectra, 
   and the other is a folder with some test made for the comparison of our method, which contains their respective python script, and the spectres what we use.
   
